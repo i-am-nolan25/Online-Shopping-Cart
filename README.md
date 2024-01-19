@@ -1,10 +1,14 @@
 # React Online Shopping Cart Application
 
+![image](https://github.com/i-am-nolan25/Online-Shopping-Cart/assets/113712250/4644837b-c094-47a6-98f1-111e35f678b2)
+
 This repository contains a Online Shopping Cart Application created as part of IBM's Developing Front-End Apps with React course.
 
 ### Course Information
 Title: Developing Front-End Apps with React
+
 Type: Hands-on Lab
+
 Course Provider: IBM
 
 ### Objective
